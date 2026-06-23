@@ -81,3 +81,7 @@ img{max-width:100%;height:auto;border-radius:8px}
 
 /* Small print */
 footer{color:var(--muted);font-size:.9rem;margin-top:1.25rem}
+
+.site-footer{background:transparent;margin-top:1.5rem;padding:.75rem 0;color:var(--muted)}
+.site-footer p{margin:0;text-align:center}
+.site-footer strong{color:var(--text);font-weight:600}
